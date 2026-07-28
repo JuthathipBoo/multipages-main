@@ -1,0 +1,12 @@
+.redix-counter-container{
+          border: 1px solid lightgray;
+          border-radius: 10px;
+          height: 600px;
+          margin-left: 0.5rem;
+          margin-right: 0.5rem;
+}
+
+/* .redix-counter-title{
+          padding-left: 1rem;
+          font-weight: bold;
+} */
