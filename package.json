@@ -1,9 +1,9 @@
 {
-  "name": "csi205",
+  "name": "multipages-main",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://JuthathipBoo.github.io/csi205/",
+  "homepage": "https://JuthathipBoo.github.io/multipages-main/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d ./dist",
